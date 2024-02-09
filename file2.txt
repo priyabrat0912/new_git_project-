@@ -3,3 +3,5 @@ this is second line of file2
 third line of file2.txt
 fourth line of file2.txt
 sixth line file2.txt
+adding new lines into the files
+what a day!!!
