@@ -1,2 +1,4 @@
 # Ignore e.txt file
 e.txt
+#Ignore hidden files
+.*
