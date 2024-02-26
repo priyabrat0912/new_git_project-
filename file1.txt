@@ -6,3 +6,4 @@ sixth line file1.txt
 what to be added here i'm not sure just random stuff
 dharma productions is it
 another line added in file1.txt
+another second line added in file1.txt
